@@ -18,6 +18,9 @@
 | [Interview](https://github.com/apachecn/Interview) | 面试 | interview |
 | [devops-exercises](https://github.com/bregman-arie/devops-exercises) | devops面试问题 | devops |
 | [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) | 面试问题 | interview |
+| [leetcode](https://github.com/doocs/leetcode) | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 | leetcode |
+
+
 
 # 计算机课程
 | Repo | Desc | Keyword |
@@ -36,6 +39,8 @@
 | [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | 程序员应该访问的最佳网站 | website |
 | [How-to-be-a-good-programmer](https://github.com/niudai/How-to-be-a-good-programmer) | 程序员修炼宝典（书籍、项目、工具、修养） | growth |
 | [awesome-cto](https://github.com/kuchin/awesome-cto) | CTO技能 | growth |
+| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 新手web开发教程 | website |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | 系统设计入门 | system design |
 
 # 有趣项目
 | Repo | Desc | Keyword |
@@ -46,6 +51,9 @@
 | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 从头开始创建你最喜欢的技术来掌握编程 | tutorials |
 | [Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) | 区块链相关科普 | block chain |
 | [gold-miner](https://github.com/xitu/gold-miner) | 掘金翻译计划 | translate |
+| [crawlab](https://github.com/crawlab-team/crawlab) | 分布式爬虫管理平台，支持任何语言和框架 | crawler |
+| [proxy_pool](https://github.com/jhao104/proxy_pool) | Python爬虫代理IP池 | python |
+| [free-project-course](https://github.com/resumejob/free-project-course) | 免费的项目实战课程 | project |
 
 # 日常工具
 | Repo | Desc | Keyword |
@@ -54,6 +62,7 @@
 | [slidev](https://github.com/slidevjs/slidev) | 为开发者打造的演示文稿工具 | tools |
 | [hackingtool](https://github.com/Z4nzu/hackingtool) | 骇客多合一工具箱 | tools |
 | [glances](https://github.com/nicolargo/glances) | 系统监控，top命令替代品 | monitor |
+| [vimrc](https://github.com/amix/vimrc) | 终极vim配置 ｜ vim |
 
 # 机器学习
 | Repo | Desc | Keyword |
