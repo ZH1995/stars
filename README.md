@@ -72,6 +72,7 @@
 | [glances](https://github.com/nicolargo/glances) | 系统监控，top命令替代品 | monitor |
 | [vimrc](https://github.com/amix/vimrc) | 终极vim配置 ｜ vim |
 | [spf13-vim](https://github.com/spf13/spf13-vim) | 终极发行版vim | tools |
+| [secguide](https://github.com/Tencent/secguide) | 面向开发人员梳理的代码安全指南 | security |
 
 # 机器学习
 | Repo | Desc | Keyword |
