@@ -35,6 +35,7 @@
 | [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | 带有视频讲座的计算机课程 | computer science |
 | [ddia](https://github.com/Vonng/ddia) | 《设计数据密集型应用》中文翻译 | architecture |
 | [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) | go入门指南翻译版 | golang |
+| [computer-science](https://github.com/ossu/computer-science) | 计算机相关课程 | computer science |
 
 # 个人成长
 | Repo | Desc | Keyword |
